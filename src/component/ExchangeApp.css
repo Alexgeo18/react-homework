@@ -1,0 +1,35 @@
+h2{
+    font-family: "Times New Roman", sans-serif;
+}
+li{
+    font-family: "Times New Roman", sans-serif;
+}
+.custom-select {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.custom-button {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+@keyframes zoomIn {
+    from {
+        transform: scale(0);
+    }
+    to {
+        transform: scale(1);
+    }
+}
+
+@keyframes zoomOut {
+    from {
+        transform: scale(10);
+    }
+    to {
+        transform: scale(0);
+    }
+}
+
+.clickable {
+    cursor: pointer;
+}
