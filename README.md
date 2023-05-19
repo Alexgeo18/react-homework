@@ -3,3 +3,4 @@ Amount 100 pentru un icon de cat
 
 Screenshot: <br>
 <img src = "Screenshot.png" alt = "Screenshot">
+<img src = "Screenshot1.png" alt = "Screenshot1">
